@@ -9,6 +9,7 @@
 
 <body>
     <h1>Bubble Sort in PHP</h1>
+    <h2>This is the change being made to the sorting assignment....</h2>
     <form method="post">
         <label for="numbers">Enter numbers separated by commas:</label><br>
         <input type="text" id="numbers" name="numbers" placeholder="e.g., 5,2,9,1,7"><br><br>
